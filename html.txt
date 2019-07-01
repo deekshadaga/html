@@ -1,3 +1,5 @@
+                                      THESE ARE SOME EXAMPLES TO SHOW USAGE OF SOME HTML TAGS
+
 <html>
 <head>
 <title>practice</title>
@@ -100,4 +102,3 @@ output=subprocess.getoutput(data)
 print("<pre>")
 print(output)
 print("</pre>")
-
